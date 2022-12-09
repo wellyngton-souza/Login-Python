@@ -1,0 +1,5 @@
+host_name = "localhost"
+host_port = "3306"
+user_name = "root"
+user_password = "usbw"
+BD_name = "bd_conta"
